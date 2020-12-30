@@ -1,4 +1,4 @@
-﻿/*  ----------------------------------------------
+/*  ----------------------------------------------
             CSS TABLE OF CONTENTS
     ------------------------------------------------- */
 /*
@@ -295,7 +295,7 @@ blockquote span {
 
 .navbar-custom .navbar-brand span.brand-logo {
     display: inline-block;
-    padding: 8px 0;
+    padding: 0px 0;
     margin: 0 16px;
 }
 
@@ -304,7 +304,7 @@ blockquote span {
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
-    padding: 2px 6px;
+    padding: 0px 6px;
     color: #fff;
 }
 
